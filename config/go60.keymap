@@ -51,6 +51,7 @@
                 51 52 53
                 57 58 59
             >;
+            hold-trigger-on-release;
         };
 
         hmr: home_row_mod_right {
@@ -69,6 +70,7 @@
                 48 49 50
                 54 55 56
             >;
+            hold-trigger-on-release;
         };
 
         magic: magic {
