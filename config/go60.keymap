@@ -164,10 +164,10 @@
             bindings = <
             &kp EQUAL  &kp N1     &kp N2   &kp N3    &kp N4  &kp N5                                                      &kp N6    &kp N7     &kp N8    &kp N9    &kp N0           &kp MINUS
               &kp TAB   &kp Q      &kp W    &kp E     &kp R   &kp T                                                       &kp Y     &kp U      &kp I     &kp O     &kp P            &kp BSLH
-              &kp ESC   &hml LGUI A  &hml LALT S  &hml LSHFT D  &hml LCTRL F   &kp G                                    &kp H  &hmr RCTRL J  &hmr RSHFT K  &hmr RALT L  &hmr RGUI SEMI  &kp SQT
+          &mt CAPS ESC   &hml LGUI A  &hml LALT S  &hml LSHFT D  &hml LCTRL F   &kp G                                    &kp H  &hmr RCTRL J  &hmr RSHFT K  &hmr RALT L  &hmr RGUI SEMI  &kp SQT
            &kp LSHFT   &kp Z      &kp X    &kp C     &kp V   &kp B                                                       &kp N     &kp M  &kp COMMA   &kp DOT  &kp FSLH          &kp RSHFT
                                &kp GRAVE  &keypad_td  &mo LAYER_SymbolNav                                           &magic LAYER_Magic 0  &kp LBKT  &kp RBKT
-                                                     &kp SPACE  &kp BSPC  &kp LGUI     &kp RGUI  &kp DEL  &symbol_nav_td
+                                                     &kp SPACE  &kp BSPC  &kp LGUI     &kp RGUI  &kp DEL  &lt LAYER_SymbolNav RET
             >;
         };
 
